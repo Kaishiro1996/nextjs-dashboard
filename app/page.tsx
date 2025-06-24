@@ -36,13 +36,13 @@ export default function Page() {
           className='hidden md:block'
           alt="Hero Image"
           />
-          {/* <Image
+          <Image
           src="/hero-mobile.png"
           width={500}
           height={620}
           className='block md:hidden'
           alt="Hero Image"
-          /> */}
+          />
         </div>
       </div>
     </main>
